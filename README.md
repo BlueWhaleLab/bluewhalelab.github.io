@@ -128,7 +128,6 @@ Contributing to the Blog Locally (Taking macOS as an example):
     - 如果有修改建议，请根据反馈进行调整
     - 审核通过后，你的更改将被合并到主仓库
 
-
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/main/LICENSE).

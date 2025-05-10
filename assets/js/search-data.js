@@ -27,9 +27,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/math/";
           
         },
-      },{id: "post-a-post-that-can-be-cited",
+      },{id: "post-a-sample-post-that-can-be-cited",
         
-          title: "a post that can be cited",
+          title: "a sample post that can be cited",
         
         description: "this is what a post that can be cited looks like",
         section: "Posts",
@@ -38,9 +38,9 @@ ninja.data = [{
             window.location.href = "/blog/2024/post-citation/";
           
         },
-      },{id: "post-a-post-with-table-of-contents",
+      },{id: "post-a-sample-post-with-table-of-contents",
         
-          title: "a post with table of contents",
+          title: "a sample post with table of contents",
         
         description: "an example of a blog post with table of contents",
         section: "Posts",
@@ -49,10 +49,7 @@ ninja.data = [{
             window.location.href = "/blog/2023/table-of-contents/";
           
         },
-      },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-launching-the-blog",
+      },{id: "news-launching-the-blog",
           title: 'Launching the blog!',
           description: "",
           section: "News",},{

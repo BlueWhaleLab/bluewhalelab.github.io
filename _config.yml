@@ -4,16 +4,17 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Blue
-middle_name: 
-last_name: Whale
+middle_name: Whale
+last_name: Lab@NUS
 contact_note: >
+
 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Stars & Oceans
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Bule Whale # add your own keywords or leave empty
+keywords: Bule Whale Lab@NUS  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -87,7 +88,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blue Whale # blog_name will be displayed in your blog page
+blog_name: Blue Whale Lab@NUS # blog_name will be displayed in your blog page
 blog_description: Stars & Oceans 
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts

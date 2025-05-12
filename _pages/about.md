@@ -28,3 +28,12 @@ latest_posts:
 ---
 
 Stars & Oceans  星辰和大海
+
+### Vision and Mission
+
+ I founded the BlueWhaleLab because I am passionate about the potential of AI to address some of the most pressing challenges in science and society, and I am eager to collaborate with like-minded individuals to achieve this vision.
+
+
+### Why is it called Blue Whale Lab? 
+ 
+ The blue whale is the largest mammal on Earth, possessing immense potential and capabilities, much like AI with its limitless possibilities. Additionally, the blue whale is one of my favorite animals, with its unique charm and intelligence. It embodies freedom and the pursuit of the stars and the ocean.

@@ -16,15 +16,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-a-sample-post-with-math",
+        },{id: "post-empo-fully-unsupervised-llm-reasoning-incentivization",
         
-          title: "a sample post with math",
+          title: "EMPO Fully Unsupervised LLM Reasoning Incentivization",
+        
+        description: "Right Question is Already Half the Answer, Fully Unsupervised LLM Reasoning Incentivization",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/EMPO-Fully-Unsupervised-LLM-Reasoning-Incentivization/";
+          
+        },
+      },{id: "post-a-sample-post-with-math-2",
+        
+          title: "a sample post with math 2",
         
         description: "an example of a blog post with some math",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/math/";
+            window.location.href = "/blog/2025/math2/";
           
         },
       },{id: "post-a-sample-post-that-can-be-cited",

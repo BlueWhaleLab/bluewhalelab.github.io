@@ -22,14 +22,16 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 4 # leave blank to include all the blog posts
 ---
 
 Stars & Oceans  星辰和大海
 
 ### Vision and Mission
 
- The BlueWhaleLab is founded because I am passionate about the potential of AI to address some of the most pressing challenges in science and society, and I am eager to collaborate with like-minded individuals to achieve this vision.
+ The Blue Whale Lab is founded because I am passionate about the potential of AI to address some of the most pressing challenges in science and society, and I am eager to collaborate with like-minded individuals to achieve this vision.
+
+<!-- **Contact:** [bluewhalelaboratory@gmail.com](mailto:bluewhalelaboratory@gmail.com) -->
 
 
 ### Why is it called Blue Whale Lab? 

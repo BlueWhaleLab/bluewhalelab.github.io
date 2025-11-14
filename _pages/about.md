@@ -29,23 +29,23 @@ Stars & Oceans  星辰和大海
 
 ### Vision and Mission
 
- The Blue Whale Lab is founded because I am passionate about the potential of AI to address some of the most pressing challenges in science and society, and I am eager to collaborate with like-minded individuals to achieve this vision.
+ The Blue Whale Lab is founded by Prof. [Yatao Bian](https://yataobian.com).  He is passionate about the potential of AI to address some of the most pressing challenges in science and society, and is eager to collaborate with like-minded individuals to achieve this vision.
 
 <!-- **Contact:** [bluewhalelaboratory@gmail.com](mailto:bluewhalelaboratory@gmail.com) -->
 
 
 ### Why is it called Blue Whale Lab? 
  
- The blue whale is the largest mammal on Earth, possessing immense potential and capabilities, much like AI with its limitless possibilities. Additionally, the blue whale is one of my favorite animals, with its unique charm and intelligence. It embodies freedom and the pursuit of the stars and the ocean.
+ The blue whale is the largest mammal on Earth, possessing immense potential and capabilities, much like AI with its limitless possibilities. Additionally, the blue whale is one of the favorite animals of Prof. Yatao Bian, with its unique charm and intelligence. It embodies freedom and the pursuit of the stars and the ocean.
 
 ### Research Focus
 
-My research centers on AI capability-driven basic research, structured along two deeply interconnected and synergistic lines of inquiry:
+The research centers on AI capability-driven basic research, structured along two deeply interconnected and synergistic lines of inquiry:
 
 - Sci4AI: Advancing AI with Science
 
-AI's progress has long been nurtured by scientific disciplines—for example, the Boltzmann machine rooted in statistical physics. I am dedicated to developing principled AI methodologies grounded in fundamental mathematical and scientific theories, aiming to push the frontiers of AI capabilities.
+AI's progress has long been nurtured by scientific disciplines—for example, the Boltzmann machine rooted in statistical physics. We are dedicated to developing principled AI methodologies grounded in fundamental mathematical and scientific theories, aiming to push the frontiers of AI capabilities.
 
 - AI4Sci: Advancing Science with AI
 
-I am committed to leveraging AI's transformative potential to accelerate discovery and address critical challenges in science and society. My work focuses on developing AI4Sci toolkits that are not only highly accurate and robust but are also increasingly endowed with advanced reasoning capabilities, enabling new modes of scientific inquiry.
+We are committed to leveraging AI's transformative potential to accelerate discovery and address critical challenges in science and society. Our work focuses on developing AI4Sci toolkits that are not only highly accurate and robust but are also increasingly endowed with advanced reasoning capabilities, enabling new modes of scientific inquiry.

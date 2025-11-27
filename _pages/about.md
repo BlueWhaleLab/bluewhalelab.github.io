@@ -9,7 +9,7 @@ profile:
   image: logo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size: 13px;">Logo of BlueWhaleLab@NUS: The infinite loop of a whale's tail， symbolizing the continuous progress driven by AI. Designed and constructed by Yatao with multiple text2img tools.</p>
+    <p style="font-size: 13px;">Logo of BlueWhaleLab@NUS: The infinite loop of a whale's tail， symbolizing the continuous progress driven by AI. </p>
 
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page

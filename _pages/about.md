@@ -34,9 +34,9 @@ Stars & Oceans  星辰和大海
 <!-- **Contact:** [bluewhalelaboratory@gmail.com](mailto:bluewhalelaboratory@gmail.com) -->
 
 
-### Why is it called Blue Whale Lab? 
+<!-- ### Why is it called Blue Whale Lab? 
  
- The blue whale is the largest mammal on Earth, possessing immense potential and capabilities, much like AI with its limitless possibilities. Additionally, the blue whale is one of the favorite animals of Prof. Yatao Bian, with its unique charm and intelligence. It embodies freedom and the pursuit of the stars and the ocean.
+ The blue whale is the largest mammal on Earth, possessing immense potential and capabilities, much like AI with its limitless possibilities. Additionally, the blue whale is one of the favorite animals of Prof. Yatao Bian, with its unique charm and intelligence. It embodies freedom and the pursuit of the stars and the ocean. -->
 
 ### Research Focus
 

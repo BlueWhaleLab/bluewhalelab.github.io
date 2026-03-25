@@ -9,7 +9,7 @@ profile:
   image: logo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size: 13px;">Logo of BlueWhaleLab@NUS: The infinite loop of a whale's tail， symbolizing the continuous progress driven by AI. </p>
+    <p style="font-size: 13px;">Logo of BlueWhaleLab: The infinite loop of a whale's tail， symbolizing the continuous progress driven by AI. </p>
 
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
@@ -45,6 +45,5 @@ Our research centers on AI capability-driven basic research, structured along tw
 
 **- Sci4AI: Advancing AI with Science.** AI's progress has long been nurtured by scientific disciplines—for example, the Boltzmann machine rooted in statistical physics, motivated by the Maximum Entropy Principle. We are dedicated to developing principled AI methodologies grounded in fundamental mathematical and scientific theories, aiming to push the frontiers of AI capabilities. One example is our work on [Energy Based Games](https://openreview.net/pdf?id=xLfAgCroImw), where we apply the Maximum Entropy Principle to game-theoretic valuations (such as the classical Shapley value). By deriving a new class of valuation methods, this work provides a principled interpretation framework for AI models. Recently, by applying the Minimum Entropy Principle, we have proposed the first unsupervised  approach [EMPO](https://openreview.net/pdf?id=k8Mim6RI5O) for eliciting LLM (DeepSeek R1-Zero-like) reasoning capabilities. 
 
-**- AI4Sci: Advancing Science with AI.** We are committed to leveraging AI's transformative potential to accelerate discovery and address critical challenges in science and society. Our work focuses on developing AI4Sci toolkits that are not only highly accurate and robust but also increasingly endowed with advanced reasoning capabilities, enabling new modes of scientific inquiry. For example, we have developed one of the first self-supervised graph transformers for molecular representation learning: [GROVER](https://proceedings.neurips.cc/paper_files/paper/2020/file/94aef38441efa3380a3bed3faf1f9d5d-Paper.pdf). Recently, we have lifted this into the molecule-language regime with [HIGHT](https://openreview.net/pdf?id=wpbNczwAwV), which shows great potential for chemical reasoning.
-
+**- AI4Sci: Advancing Science with AI.** We are committed to leveraging AI's transformative potential to accelerate discovery and address critical challenges in science and society. Our work focuses on developing AI4Sci toolkits that are not only highly accurate and robust but also increasingly endowed with advanced reasoning capabilities, enabling new modes of scientific inquiry. For instance, we have developed one of the first self-supervised graph transformers for molecular representation learning: [GROVER](https://proceedings.neurips.cc/paper_files/paper/2020/file/94aef38441efa3380a3bed3faf1f9d5d-Paper.pdf). Recently, we have lifted this into the molecule-language regime with [HIGHT](https://openreview.net/pdf?id=wpbNczwAwV), which shows great potential for chemical reasoning in natural language.
 

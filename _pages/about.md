@@ -31,12 +31,16 @@ Stars & Oceans  星辰和大海
 
  The Blue Whale Lab is founded by Prof. [Yatao Bian](https://yataobian.com).  He is passionate about the potential of AI to address some of the most pressing challenges in science and society, and is eager to collaborate with like-minded individuals to achieve this vision.
 
+  Research at Blue Whale Lab is generously supported by the NRF Fellowship Grant, NRF AI4S Catalytic Grant,  NUS AI Institute (NAII) Seed Grant, and grant from the Singapore Ministry of Education.  
+
 <!-- **Contact:** [bluewhalelaboratory@gmail.com](mailto:bluewhalelaboratory@gmail.com) -->
 
 
 <!-- ### Why is it called Blue Whale Lab? 
  
  The blue whale is the largest mammal on Earth, possessing immense potential and capabilities, much like AI with its limitless possibilities. Additionally, the blue whale is one of the favorite animals of Prof. Yatao Bian, with its unique charm and intelligence. It embodies freedom and the pursuit of the stars and the ocean. -->
+
+
 
 ### Research Focus
 

@@ -295,6 +295,10 @@ ul.task-list input[type="checkbox"] {
     }
   }
 
+  .navbar-nav .nav-item a.nav-link {
+    text-transform: capitalize;
+  }
+
   .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
     font-weight: bolder;

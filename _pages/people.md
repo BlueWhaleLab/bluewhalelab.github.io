@@ -6,6 +6,13 @@ nav: true
 nav_order: 1
 description: The crew navigating the stars &amp; oceans of AI — meet the Blue Whale Lab.
 _styles: |
+  .post-header .post-title { display: none; }
+  .post-header .post-description {
+    font-size: 1.15rem;
+    line-height: 1.6;
+    color: var(--global-text-color-light);
+    margin-bottom: 2.5rem;
+  }
   .people-section { margin-bottom: 3rem; }
   .people-section-title {
     font-size: 1.4rem;

@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-empo-fully-unsupervised-llm-reasoning-incentivization",
+        },{id: "post-a-call-for-reasoning-empowered-foundation-models",
+        
+          title: "A Call for Reasoning Empowered Foundation Models",
+        
+        description: "Yatao Bian",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/A-Call-for-Reasoning-Empowered-Foundation-Models/";
+          
+        },
+      },{id: "post-empo-fully-unsupervised-llm-reasoning-incentivization",
         
           title: "EMPO Fully Unsupervised LLM Reasoning Incentivization",
         

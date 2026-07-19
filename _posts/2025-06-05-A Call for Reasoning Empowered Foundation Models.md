@@ -7,7 +7,7 @@ author: Yatao Bian
 tags:  reasoning AI4SCI  
 categories: research 
 related_posts: true
-featured: false
+featured: true
 published: true
 toc:
   beginning: true

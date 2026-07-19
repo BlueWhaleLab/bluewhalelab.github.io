@@ -553,9 +553,7 @@ footer.sticky-bottom {
   padding-bottom: 2rem;
 
   h1 {
-    color: var(--global-theme-color);
     font-size: clamp(2.2rem, 6vw, 3.2rem);
-    font-weight: 600;
     line-height: 1.15;
     margin-bottom: 0.5rem;
   }
@@ -591,6 +589,37 @@ footer.sticky-bottom {
 .post-title {
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
+  }
+}
+
+// Brand-blue titles: navbar brand, blog header, and page/post hero titles
+#navbar .navbar-brand.title,
+.header-bar h1,
+.post-header .post-title {
+  color: #1f74bd;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+}
+
+html[data-theme="dark"] #navbar .navbar-brand.title,
+html[data-theme="dark"] .header-bar h1,
+html[data-theme="dark"] .post-header .post-title {
+  color: #5cabe6;
+}
+
+.about-title {
+  margin-bottom: 0.35rem;
+}
+
+.lab-tagline {
+  font-size: 1.2rem;
+  font-weight: 300;
+  color: var(--global-text-color-light);
+  letter-spacing: 0.08em;
+  margin-bottom: 1.75rem;
+
+  .lab-tagline-cn {
+    margin-left: 0.4rem;
   }
 }
 

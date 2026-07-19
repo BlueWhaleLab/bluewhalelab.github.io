@@ -1,0 +1,92 @@
+# -----------------------------------------------------------------------------
+# Blue Whale Lab @ NUS — People
+# -----------------------------------------------------------------------------
+# Each entry under `groups` renders as a section on /people/.
+# To add a photo: drop the image in assets/img/people/ and set `image` to its
+# filename (e.g. image: people/yatao.jpg). If `image` is omitted, an ocean
+# gradient avatar with the member's initials is shown automatically.
+#
+# Supported `links` keys: website, email, scholar, github, linkedin, twitter,
+# orcid, cv. Add only the ones you have.
+# -----------------------------------------------------------------------------
+
+groups:
+  - title: Principal Investigator
+    featured: true # renders the first row as a large, horizontal card
+    members:
+      - name: Yatao Bian
+        role: Asst Prof @ NUS, Fellow of National Research Foundation
+        image: # e.g. people/yatao.jpg
+        bio: >
+          Dr. Yatao Bian is an Assistant Professor in the Department of Computer Science at the National University of Singapore, and a Fellow of National Research Foundation, Singapore. He is also affiliated with the NUS AI Institute. He is the head of Blue Whale Lab, where he leads research on scientific intelligence and machine learning. 
+          He received the PhD degree from the Institute for Machine Learning, ETH Zurich. From 2015 to 2020, he was an associate fellow with the Max Planck ETH Center for Learning Systems. He was named a Microsoft Research Asia StarTrack Scholar in 2026. He won the National Championship in AMD China Accelerated Computing Contest when he was a student. 
+          He is dedicated to expanding the frontiers of AI capabilities in scientific intelligence, driving transformative technological advancements to address the most critical challenges in scientific research. His research interests include modern energy/entropy based learning, reasoning-empowered scientific foundation models, LLM/agent for science and the safety issues therein. 
+          He has authored or coauthored several papers on machine learning top conferences/journals such as NeurIPS, ICML, ICLR and T-PAMI. He is the area chair of ICML, NeurIPS and ICLR. He serves as the Action Editor for TMLR. He was a reviewer/PC for conferences, such as ICML, NeurIPS, ICLR, CVPR, AAAI, STOC and journals like JMLR, T-PAMI and Nature Machine Intelligence.
+        links:
+          website: https://yataobian.com
+          email: # add your preferred contact email
+          scholar: https://scholar.google.com/citations?hl=en&user=oZBTlBkAAAAJ&view_op=list_works&sortby=pubdate
+
+  - title: Research Fellows 
+    members:
+      - name: Research Fellow Name
+        role: Research Fellow 
+        placeholder: true
+        bio: >
+          To be updated. 
+        links:
+          email: # add recruiting contact email
+
+  - title: PhD Students
+    members:
+      - name: PhD Name
+        role: PhD Student
+        placeholder: true
+        bio: >
+          Placeholder profile — a short research interest blurb will go here.
+      - name: PhD Name
+        role: PhD Student
+        placeholder: true
+        bio: >
+          Placeholder profile — a short research interest blurb will go here.
+      - name: PhD Name
+        role: PhD Student
+        placeholder: true
+        bio: >
+          Placeholder profile — a short research interest blurb will go here.
+
+  - title: Visiting Scholars
+    members:
+      - name:  Name
+        role:  Student
+        placeholder: true
+        bio: >
+          Placeholder profile — a short research interest blurb will go here.
+      - name:  Name
+        role:  Student
+        placeholder: true
+        bio: >
+          Placeholder profile — a short research interest blurb will go here.
+      - name:  Name
+        role:  Student
+        placeholder: true
+        bio: >
+          Placeholder profile — a short research interest blurb will go here.
+
+  - title: Research Assistants / Interns 
+    members:
+      - name:  Name
+        role:  Student
+        placeholder: true
+        bio: >
+          Placeholder profile — a short research interest blurb will go here.
+      - name:  Name
+        role:  Student
+        placeholder: true
+        bio: >
+          Placeholder profile — a short research interest blurb will go here.
+      - name:  Name
+        role:  Student
+        placeholder: true
+        bio: >
+          Placeholder profile — a short research interest blurb will go here.

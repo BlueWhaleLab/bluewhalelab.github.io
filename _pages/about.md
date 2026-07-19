@@ -27,9 +27,9 @@ latest_posts:
 
 Stars & Oceans  星辰和大海
 
-### Vision and Mission
+<!-- ### Vision and Mission -->
 
- The Blue Whale Lab is founded by Prof. [Yatao Bian](https://yataobian.com).  He is passionate about the potential of AI to address some of the most pressing challenges in science and society, and is eager to collaborate with like-minded individuals to achieve this vision.
+ The Blue Whale Lab is led by Prof. [Yatao Bian](https://yataobian.com).  He is passionate about the potential of AI to address some of the most pressing challenges in science and society, and is eager to collaborate with like-minded individuals to achieve this vision.
 
   Research at Blue Whale Lab is generously supported by the NRF Fellowship Grant, NRF AI4S Catalytic Grant,  NUS AI Institute (NAII) Seed Grant, and grant from the Singapore Ministry of Education.  
 

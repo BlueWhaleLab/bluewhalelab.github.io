@@ -8,7 +8,7 @@ tags:  reasoning AI4SCI
 categories: research 
 related_posts: true
 featured: false
-published: false
+published: true
 toc:
   beginning: true
 citation: false

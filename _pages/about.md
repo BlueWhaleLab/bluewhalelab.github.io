@@ -25,7 +25,9 @@ latest_posts:
   limit: 4 # leave blank to include all the blog posts
 ---
 
-<p class="lab-tagline">Stars &amp; Oceans <span class="lab-tagline-cn">星辰和大海</span></p>
+<p class="lab-tagline">Stars &amp; Oceans 
+<!-- <span class="lab-tagline-cn">星辰和大海</span> -->
+</p>
 
 <!-- ### Vision and Mission -->
 

@@ -69,7 +69,7 @@ pagination:
 <div class="card hoverable h-100">
 <div class="card-body">
 <i class="fa-solid fa-thumbtack fa-xs featured-pin"></i>
-<h3 class="card-title text-lowercase">{{ post.title }}</h3>
+<h3 class="card-title">{{ post.title }}</h3>
 <p class="card-text">{{ post.description }}</p>
 
                 {% if post.external_source == blank %}

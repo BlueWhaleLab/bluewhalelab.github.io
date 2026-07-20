@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-join-us",
+          title: "join us",
+          description: "Chart the stars &amp; oceans of AI with us.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/join/";
+          },
         },{id: "post-a-call-for-reasoning-empowered-foundation-models",
         
           title: "A Call for Reasoning Empowered Foundation Models",

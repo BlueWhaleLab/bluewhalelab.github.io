@@ -64,6 +64,12 @@ _styles: |
     margin: 0 0 0.25rem;
     color: var(--global-text-color);
   }
+  .member-name a {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+  .member-name a:hover { color: var(--global-theme-color); }
   .member-role {
     font-size: 0.85rem;
     color: var(--global-theme-color);
@@ -76,6 +82,34 @@ _styles: |
     line-height: 1.5;
     margin: 0 0 0.9rem;
   }
+  .member-bio-toggle {
+    margin: 0 0 0.9rem;
+    text-align: left;
+  }
+  .member-bio-toggle > summary {
+    cursor: pointer;
+    list-style: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--global-theme-color);
+    -webkit-user-select: none;
+    user-select: none;
+    transition: color 0.2s ease;
+  }
+  .member-bio-toggle > summary::-webkit-details-marker { display: none; }
+  .member-bio-toggle > summary::after {
+    content: "\25be";
+    display: inline-block;
+    font-size: 0.9rem;
+    line-height: 1;
+    transition: transform 0.2s ease;
+  }
+  .member-bio-toggle[open] > summary::after { transform: rotate(180deg); }
+  .member-bio-toggle > summary:hover { color: var(--global-hover-color); }
+  .member-bio-toggle .member-bio { margin: 0.6rem 0 0; }
   .member-links {
     display: flex;
     gap: 0.9rem;
@@ -147,9 +181,14 @@ _styles: |
         <div class="member-avatar avatar-initials">{{ initials | upcase }}</div>
       {% endif %}
       <div class="member-info">
-        <h3 class="member-name">{{ member.name }}</h3>
+        <h3 class="member-name">{% if member.links.website %}<a href="{{ member.links.website }}" target="_blank" rel="noopener">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h3>
         <p class="member-role">{{ member.role }}</p>
-        {% if member.bio %}<p class="member-bio">{{ member.bio }}</p>{% endif %}
+        {% if member.bio %}
+        <details class="member-bio-toggle">
+          <summary>Bio</summary>
+          <p class="member-bio">{{ member.bio }}</p>
+        </details>
+        {% endif %}
         <div class="member-links">
           {% if member.links.website %}<a href="{{ member.links.website }}" title="Website"><i class="fa-solid fa-globe"></i></a>{% endif %}
           {% if member.links.email %}<a href="mailto:{{ member.links.email }}" title="Email"><i class="fa-solid fa-envelope"></i></a>{% endif %}
@@ -177,7 +216,7 @@ _styles: |
           {% for p in parts limit: 2 %}{% assign fl = p | slice: 0 %}{% assign initials = initials | append: fl %}{% endfor %}
           <div class="member-avatar avatar-initials">{{ initials | upcase }}</div>
         {% endif %}
-        <h3 class="member-name">{{ member.name }}</h3>
+        <h3 class="member-name">{% if member.links.website %}<a href="{{ member.links.website }}" target="_blank" rel="noopener">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h3>
         <p class="member-role">{{ member.role }}</p>
         {% if member.bio %}<p class="member-bio">{{ member.bio }}</p>{% endif %}
         <div class="member-links">

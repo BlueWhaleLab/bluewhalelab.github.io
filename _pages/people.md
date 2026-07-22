@@ -143,14 +143,14 @@ _styles: |
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
   }
   .member-card.featured .member-avatar {
-    width: 150px;
-    height: 150px;
+    width: 120px;
+    height: 120px;
     margin-bottom: 0;
     flex-shrink: 0;
   }
   .member-card.featured .avatar-initials { font-size: 2.8rem; }
   .member-card.featured .member-info { flex: 1; }
-  .member-card.featured .member-name { font-size: 1.5rem; }
+  .member-card.featured .member-name { font-size: 1.25rem; }
   .member-card.featured .member-role { font-size: 0.95rem; }
   .member-card.featured .member-bio { font-size: 0.92rem; }
   .member-card.featured .member-links { justify-content: flex-start; }

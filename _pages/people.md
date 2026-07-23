@@ -181,7 +181,7 @@ _styles: |
         <div class="member-avatar avatar-initials">{{ initials | upcase }}</div>
       {% endif %}
       <div class="member-info">
-        {% assign profile_url = member.links.website | default: member.links.scholar %}
+        {% assign profile_url = member.links.website | default: member.links.scholar | default: member.links.github %}
         <h3 class="member-name">{% if profile_url %}<a href="{{ profile_url }}" target="_blank" rel="noopener">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h3>
         <p class="member-role">{{ member.role }}</p>
         {% if member.bio %}
@@ -217,7 +217,7 @@ _styles: |
           {% for p in parts limit: 2 %}{% assign fl = p | slice: 0 %}{% assign initials = initials | append: fl %}{% endfor %}
           <div class="member-avatar avatar-initials">{{ initials | upcase }}</div>
         {% endif %}
-        {% assign profile_url = member.links.website | default: member.links.scholar %}
+        {% assign profile_url = member.links.website | default: member.links.scholar | default: member.links.github %}
         <h3 class="member-name">{% if profile_url %}<a href="{{ profile_url }}" target="_blank" rel="noopener">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h3>
         <p class="member-role">{{ member.role }}</p>
         {% if member.bio %}<p class="member-bio">{{ member.bio }}</p>{% endif %}

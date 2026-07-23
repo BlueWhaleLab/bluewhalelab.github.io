@@ -65,9 +65,12 @@ groups:
 
   - title: Research Assistants / Interns 
     members:
-      - name:  Name
-        role:  Student
-        placeholder: true
+      - name: Nguyen Cao Duy
+        role: FYP student @ NUS 
+        image: people/duy.jpg
+        links:
+          # github: https://github.com/ncduy0303
+          website: https://ncduy0303.github.io/
       - name:  Name
         role:  Student
         placeholder: true

@@ -40,14 +40,17 @@ groups:
     members:
       - name: Chengwen Qi
         role: PhD Student
+        image: people/chenwen.jpg
         links:
           website: https://scholar.google.com/citations?user=BDTWCHAAAAAJ&hl=en
       - name: Yuchen Yan
         role: PhD Student
+        image: people/yuchen.jpg
         links:
           website: https://scholar.google.com/citations?user=D0wjQS8AAAAJ
       - name: Chenan Song
         role: PhD Student
+        image: people/chenan.jpg
         links:
           website: https://scholar.google.com/citations?user=xygmYqoAAAAJ&hl=en
 
@@ -65,15 +68,15 @@ groups:
 
   - title: Research Assistants / Interns 
     members:
+      - name:  Name
+        role:  Student
+        placeholder: true
       - name: Nguyen Cao Duy
         role: FYP student @ NUS 
         image: people/duy.jpg
         links:
           # github: https://github.com/ncduy0303
           website: https://ncduy0303.github.io/
-      - name:  Name
-        role:  Student
-        placeholder: true
       - name:  Name
         role:  Student
         placeholder: true

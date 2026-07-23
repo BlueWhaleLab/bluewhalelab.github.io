@@ -65,7 +65,15 @@ groups:
       - name:  Name
         role:  Student
         placeholder: true
-
+      - name:  Name
+        role:  Student
+        placeholder: true
+      - name:  Name
+        role:  Student
+        placeholder: true
+      - name:  Name
+        role:  Student
+        placeholder: true        
   - title: Visiting Scholars
     members:
       - name:  Name

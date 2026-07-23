@@ -38,15 +38,18 @@ groups:
 
   - title: PhD Students
     members:
-      - name: PhD Name
+      - name: Chengwen Qi
         role: PhD Student
-        placeholder: true
-      - name: PhD Name
+        links:
+          website: https://scholar.google.com/citations?user=BDTWCHAAAAAJ&hl=en
+      - name: Yuchen Yan
         role: PhD Student
-        placeholder: true
-      - name: PhD Name
+        links:
+          website: https://scholar.google.com/citations?user=D0wjQS8AAAAJ
+      - name: Chenan Song
         role: PhD Student
-        placeholder: true
+        links:
+          website: https://scholar.google.com/citations?user=xygmYqoAAAAJ&hl=en
 
   - title: Visiting Scholars
     members:

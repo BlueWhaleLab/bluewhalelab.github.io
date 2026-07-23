@@ -35,6 +35,12 @@ groups:
         # bio intentionally left empty — the name links to the personal homepage.
         links:
           website: https://phenixace.github.io/
+      - name:  Name
+        role:  Student
+        placeholder: true
+      - name:  Name
+        role:  Student
+        placeholder: true
 
   - title: PhD Students
     members:
@@ -53,6 +59,12 @@ groups:
         image: people/chenan.jpg
         links:
           website: https://scholar.google.com/citations?user=xygmYqoAAAAJ&hl=en
+      - name:  Name
+        role:  Student
+        placeholder: true
+      - name:  Name
+        role:  Student
+        placeholder: true
 
   - title: Visiting Scholars
     members:

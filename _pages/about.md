@@ -9,7 +9,7 @@ profile:
   image: logo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size: 13px;">Logo of BlueWhaleLab: The infinite loop of a whale's tail， symbolizing the continuous progress driven by AI. </p>
+    <p style="font-size: 13px;">Logo of Blue Whale Lab: A whale’s flowing wake forms an infinite loop, symbolizing continuous AI-driven progress in science and society. </p>
 
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page

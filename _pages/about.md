@@ -35,8 +35,6 @@ latest_posts:
 
 Research at Blue Whale Lab is generously supported by the NRF Fellowship Grant, NRF AI4S Catalytic Grant,  NUS AI Institute (NAII) Seed Grant, and grant from the Singapore Ministry of Education.  
 
-<!-- **Contact:** [bluewhalelaboratory@gmail.com](mailto:bluewhalelaboratory@gmail.com) -->
-
 
 <!-- ### Why is it called Blue Whale Lab? 
  
@@ -44,16 +42,17 @@ Research at Blue Whale Lab is generously supported by the NRF Fellowship Grant, 
 
 
 
-### Research Focus
+### Research Focus: Scientific Intelligence
 
 
-Our research centers on AI capability-driven basic research, structured along two deeply interconnected and synergistic lines of inquiry:
+Our research centers on AI-capability-driven basic research, organized around two deeply interconnected and synergistic directions that together form the core components of **scientific intelligence**.
 
 
 **- Advancing AI with Science.** AI's progress has long been nurtured by scientific disciplines—for example, the Boltzmann machine rooted in statistical physics motivated by the Max Entropy Principle. We are dedicated to developing principled AI methodologies grounded in fundamental mathematical and scientific theories, aiming to push the frontiers of AI capabilities. 
 
-An important direction within this line of research is entropy- and energy-based learning.
-One example of this is our research on [Energy Based Games](https://openreview.net/pdf?id=xLfAgCroImw), where we apply the Maximum Entropy Principle to game-theoretic valuations (such as the classical Shapley value). By deriving a new class of valuation methods, this work provides a principled interpretation framework for AI models. Recently, by applying the Min Entropy Principle, we have proposed the first unsupervised approach [EMPO](https://openreview.net/pdf?id=k8Mim6RI5O) for eliciting LLM (DeepSeek R1-Zero-like) reasoning capabilities.
+
+An important direction within this line of research is [modern entropy based learning](https://yataobian.github.io/entropy-based-learning).
+One example of this is our research on [Maximum Entropy Games](https://openreview.net/pdf?id=xLfAgCroImw), where we apply the Maximum Entropy Principle to game-theoretic valuations (such as the classical Shapley value). By deriving a new class of valuation methods, this work provides a principled interpretation framework for AI models. Recently, by applying the Minimum Entropy Principle, we have proposed the first unsupervised approach [EMPO](https://openreview.net/pdf?id=k8Mim6RI5O) for eliciting LLM (DeepSeek R1-Zero-like) reasoning capabilities.
 
 
 **- Advancing Science with AI.** We are committed to leveraging AI's transformative potential to accelerate discovery and address critical challenges in science and society. Our work focuses on developing AI4Sci toolkits that are not only highly accurate and robust but also increasingly endowed with advanced reasoning capabilities, enabling new modes of scientific inquiry. 

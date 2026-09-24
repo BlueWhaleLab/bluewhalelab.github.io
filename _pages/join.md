@@ -61,6 +61,15 @@ _styles: |
     color: var(--global-text-color-light);
     margin: 0;
   }
+  .join-card ol {
+    font-size: 0.9rem;
+    line-height: 1.55;
+    margin: 0.35rem 0 0.75rem;
+    padding-left: 1.2rem;
+  }
+  .join-card ol li {
+    margin-bottom: 0.15rem;
+  }
   .join-values { padding-left: 0; list-style: none; }
   .join-values li {
     position: relative;
@@ -153,7 +162,18 @@ We are always looking for curious, ambitious, and kind-hearted people to join th
   <div class="join-card">
     <div class="card-icon"><i class="fa-solid fa-graduation-cap"></i></div>
     <h3>PhD Students</h3>
-    <p>Fully funded positions for the 2027, 2028, 2029 Spring/Fall intakes, hosted in the NUS Department of Computer Science. We seek strong fundamentals in mathematics and machine learning, and a genuine passion for research.</p>
+    <!-- <ul> -->
+      <!-- <li> -->
+        <p>We can recruit through multiple channels:</p>
+        <ol>
+          <li>NUS Computer Science PhD Programme</li>
+          <li><a href="https://isep.nus.edu.sg/">NUS ISEP Programme</a></li>
+          <li><a href="https://aisingapore.org/research/phd-fellowship-programme/">The AISG PhD Fellowship Programme</a></li>
+          <li><a href="https://www.comp.nus.edu.sg/programmes/pg/industrial/">The IPP/EDP-IPP Programme</a></li>
+        </ol>
+      <!-- </li> -->
+    <!-- </ul> -->
+    <p>For NUS Computer Science PhD:  Fully funded positions for the 2027, 2028, 2029 Spring/Fall intakes, hosted in the NUS Department of Computer Science. We seek strong fundamentals in mathematics and machine learning, and a genuine passion for research.</p>
   </div>
   <div class="join-card">
     <div class="card-icon"><i class="fa-solid fa-flask"></i></div>
@@ -163,7 +183,7 @@ We are always looking for curious, ambitious, and kind-hearted people to join th
   <div class="join-card">
     <div class="card-icon"><i class="fa-solid fa-plane-departure"></i></div>
     <h3>Visiting Students</h3>
-    <p>Visiting PhD students (e.g., CSC-funded) are welcome, ideally with at least one first-author paper at a top conference.</p>
+    <p>Visiting PhD students (e.g., CSC-funded) are welcome, ideally with at least one first-author paper at a top venue.</p>
   </div>
   <div class="join-card">
     <div class="card-icon"><i class="fa-solid fa-lightbulb"></i></div>
